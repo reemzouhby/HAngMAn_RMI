@@ -43,7 +43,7 @@ The project uses Java RMI for distributed communication with a client-server arc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/distributed-hangman-game.git
+   git clone https://github.com/reemzouhby/distributed-hangman-game.git
    cd distributed-hangman-game
    ```
 
